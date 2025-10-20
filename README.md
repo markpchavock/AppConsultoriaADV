@@ -46,7 +46,7 @@ O projeto foi desenvolvido com arquitetura moderna, integração com API REST e 
 * Navegação por rotas usando @Serializable (Kotlinx Serialization).
 * Componentes composables reutilizáveis: CustomButton, InputField, UploadBox, ChatBubble, etc.
 * Tratamento visual de loading, erro e sucesso com LaunchedEffect e toasts personalizados.
-* 
+  
 🧾 Persistência Temporária e Mock
 * Uso de mock de mensagens e dados locais em etapas de testes antes da integração final com o backend.
 
