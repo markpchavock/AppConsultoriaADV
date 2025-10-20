@@ -1,3 +1,5 @@
+📱 # AppConsultoriaADV
+
 <img width="1025" height="580" alt="image" src="https://github.com/user-attachments/assets/00dd442e-1b50-4782-ba10-bc9a66af0d91" />
 
 <img width="1304" height="532" alt="image" src="https://github.com/user-attachments/assets/ef7eb632-690d-4f10-bf48-3198e2d0ac3d" />
@@ -5,7 +7,7 @@
 <img width="976" height="702" alt="image" src="https://github.com/user-attachments/assets/eef965e7-104f-49f7-800d-d43c3fbdc898" />
 
 
-📱 # AppConsultoriaADV
+
 
 Aplicativo Android desenvolvido em Kotlin com Jetpack Compose, voltado para automatizar o atendimento e o acompanhamento de processos jurídicos de um escritório de advocacia.
 O projeto foi desenvolvido com arquitetura moderna, integração com API REST e persistência de dados local, garantindo performance, escalabilidade e experiência fluida ao usuário,atuei como responsável pela integração completa do aplicativo tendo também atuado para front-end.
